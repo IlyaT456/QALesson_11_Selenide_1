@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3d9b867-77de-4219-a2a7-029ec07d1ad1" name="Changes" comment="" />
+    <list default="true" id="c3d9b867-77de-4219-a2a7-029ec07d1ad1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignoge" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Selenide/SelenideSearchSoftAssertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenide/SelenideSearchSoftAssertions.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +51,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2IOS4KqDHRFyZKLJdlrcUrZ6gc1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -55,6 +65,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -68,7 +79,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SelenideSearchSoftAssertions">
+  <component name="RunManager" selected="JUnit.SelenideSearchSoftAssertionsTest">
     <configuration name="SelenideSearchSoftAssertions" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -90,31 +101,31 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SelenideSearchSoftAssertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SelenideSearchSoftAssertionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QALesson_11_Selenide_1.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Selenide.*" />
+          <option name="PATTERN" value="selenide.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Selenide" />
-      <option name="MAIN_CLASS_NAME" value="Selenide.SelenideSearchSoftAssertions" />
+      <option name="PACKAGE_NAME" value="selenide" />
+      <option name="MAIN_CLASS_NAME" value="selenide.SelenideSearchSoftAssertionsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelenideSearchSoftAssertions.SelenideSearchSoftAssertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SelenideSearchSoftAssertionsTest.SelenideSearchSoftAssertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QALesson_11_Selenide_1.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Selenide.*" />
+          <option name="PATTERN" value="selenide.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Selenide" />
-      <option name="MAIN_CLASS_NAME" value="Selenide.SelenideSearchSoftAssertions" />
+      <option name="PACKAGE_NAME" value="selenide" />
+      <option name="MAIN_CLASS_NAME" value="selenide.SelenideSearchSoftAssertionsTest" />
       <option name="METHOD_NAME" value="SelenideSearchSoftAssertions" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -123,8 +134,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SelenideSearchSoftAssertions" />
-        <item itemvalue="JUnit.SelenideSearchSoftAssertions.SelenideSearchSoftAssertions" />
+        <item itemvalue="JUnit.SelenideSearchSoftAssertionsTest" />
+        <item itemvalue="JUnit.SelenideSearchSoftAssertionsTest.SelenideSearchSoftAssertions" />
         <item itemvalue="Gradle.SelenideSearchSoftAssertions" />
       </list>
     </recent_temporary>
